@@ -1,0 +1,5 @@
+version: '3.8'
+services:
+  helloworld:
+    image: alpine/git # A small image that has 'sh' available
+    command: ["sh", "-c", "echo Hello, World!"]
