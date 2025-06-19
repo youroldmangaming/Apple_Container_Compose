@@ -11,7 +11,7 @@ This document defines the **principles and guidelines** for the use of **Contain
 ### ✅ Example of proper attribution in code:
 
 ```bash
-# Script based on the work of [Author] at [Repository Link]
+# Script based on the work of youroldmangaming at https://github.com/youroldmangaming/Apple_Container_Compose
 ```
 
 ## 🔒 2. Security & Code Responsibility
